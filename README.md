@@ -18,7 +18,7 @@
 
 
 ## How?
-<center>The code is viewable in https://github.com/ismafel/ProyectoDAW. 
+<center>The code is viewable in https://github.com/ismafel/ProyectoDAW and https://gitlab.com/ismael.felipa/Proyecto-DAW 
 
 This project was done by Ismael Felipa and Jordi Felip.</center>
 

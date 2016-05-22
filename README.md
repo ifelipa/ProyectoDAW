@@ -8,7 +8,7 @@
 
 ## What is our project?
 
-[![IMAGE ALT TEXT HERE](https://github.com/ismafel/ProyectoDAW/blob/master/Presentacion/img/logo.png)](https://www.youtube.com/watch?v=LAlZaJ3gjl0 "The Escape")
+[![IMAGE ALT TEXT HERE](https://github.com/ismafel/ProyectoDAW/blob/master/Presentacion/img/logo.png)]( "The Escape")
 
 
 

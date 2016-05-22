@@ -6,7 +6,7 @@
 
 <center>Escape rooms are a type of physical adventure game where people are willingly locked inside a room with other players and must solve a variety of puzzles to escape. Participants must work together and use their critical thinking skills to get out within a set time limit (usually 60 minutes). Rooms often vary in size and theme, with objects from the rooms there to help solve puzzles, search for clues, and ultimately, escape.</center>
 
-## What is it?
+## What is our project?
 
 [![IMAGE ALT TEXT HERE](https://github.com/ismafel/ProyectoDAW/blob/master/Presentacion/img/logo.png)](https://www.youtube.com/watch?v=LAlZaJ3gjl0 "The Escape")
 

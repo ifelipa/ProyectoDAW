@@ -89,6 +89,33 @@ $(function () {
             $('#park-available').css('display', 'none');
         }
     });
+    
+    
+    
+    /**************Google Analytics*****************/
+
+    //registra los click en el input del buscador
+    $('#search-input').on('click',function(){
+        ga('send', 'event', 'searchinput', 'click', 'click input search');
+    });
+
+    //registra cuando clickan para loguearse
+    $('#nav-bar-ThEscape > ul > li > a').on('click',function(){
+        ga('send', 'event', 'login', 'click', 'click input search');
+    });
+ //registra los click para ingresar
+    $('#login-nav > button').on('click',function(){
+        ga('send', 'event', 'signin', 'click', 'click input search');
+    });
+    
+ //registra los click de los usuarios que buscan todos
+    $('body > div > div.search-wrapper > div.col-md-4.col-sm-8.col-xs-12.viewall').on('click',function(){
+        ga('send', 'event', 'viewall', 'click', 'click input search');
+    });
+ //registra los click en el input del buscador por mapa
+    $(' #input-search-map').on('click',function(){
+        ga('send', 'event', 'searchmap', 'click', 'click input search');
+    });
 
 
 });//end jquery

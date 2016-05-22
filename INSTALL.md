@@ -4,10 +4,9 @@
 
 <center>Then, you will need to load the database in postgres and create a user called test with password '123'. </center>
 
-<center></center>
+<center>After that, you will have to move our project folder in /var/www/html . And change the folder name to 'The_Escape'. </center>
 
-<center>Escape rooms are a type of physical adventure game where people are willingly locked inside a room with other players and must solve a variety of puzzles to escape. Participants must work together and use their critical thinking skills to get out within a set time limit (usually 60 minutes). Rooms often vary in size and theme, with objects from the rooms there to help solve puzzles, search for clues, and ultimately, escape.</center>
-
+<center>Open your favourite browser and write localhost/The_Escape/Presentacion/ , now you are running our app.</center>
 Version
 ------------
 See our project in Heroku: http://thescape.herokuapp.com/

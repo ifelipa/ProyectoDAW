@@ -8,7 +8,7 @@
 
 ## What is our project?
 
-[![IMAGE ALT TEXT HERE](https://github.com/ismafel/ProyectoDAW/blob/master/Presentacion/img/logo.png)
+[The escape](https://github.com/ismafel/ProyectoDAW/blob/master/Presentacion/img/logo.png)
 
 
 
